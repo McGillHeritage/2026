@@ -12,9 +12,9 @@
 url: https://McGillHeritage.github.io 
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
-baseurl: /2025
+baseurl: /2026
 # location of code, the full url to your github repository
-source-code: https://github.com/McGillHeritage/2025
+source-code: https://github.com/McGillHeritage/2026
 
 ##########
 # SITE SETTINGS
@@ -22,10 +22,10 @@ source-code: https://github.com/McGillHeritage/2025
 # title of site appears in banner
 title: McGill, Nevada Newsletters - Keith's Corner
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: 2025 McGill Newsletter/Keith's Corner Editions
+tagline: 2026 McGill Newsletter/Keith's Corner Editions
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Read about the history of McGill, Nevada - Past and Present. To see the selection of 2024 Newletters, click on 'Browse' in the menu."
+description: "Read about the history of McGill, Nevada - Past and Present. To see the selection of 2026 Newletters, click on 'Browse' in the menu."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Keith Gibson, Marcie Hague
 
